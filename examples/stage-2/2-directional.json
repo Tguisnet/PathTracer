@@ -1,0 +1,37 @@
+{
+    "height": 256,
+    "width": 460,
+    "camera": {
+        "pos":      [0, 0.3, -5],
+        "forward":  [0, 0, 1.0],
+        "up":       [0.0, 1.0, 0.0],
+        "fov": 45.0
+    },
+    "meshs": [
+        "../models/teapot.obj"
+    ],
+    "materials": [
+        "../materials/ceramic.json"
+    ],
+    "lights": [
+        {
+            "type": "ambient",
+            "color": [0.3, 0.3, 0.3]
+        },
+        {
+            "type": "directional",
+            "color": [1.0, 1.0, 1.0],
+            "vector": [-0.3, -1, 0.3]
+        }
+    ],
+
+    "objects": [
+        {
+            "mesh": 0,
+            "mtl": 0,
+            "position" : [ 0, -0.5, 0 ],
+            "rotation" : [ 0, 45, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        }
+    ]
+}

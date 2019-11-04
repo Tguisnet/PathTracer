@@ -1,0 +1,39 @@
+{
+	"height": 960,
+	"width": 540,
+	"camera": {
+		"pos": [0.0, 1.0, -10.0],
+		"forward": [1.0, 0.0, 0.0],
+		"up": [0.0, 1.0, 0.0],
+		"fov": 45.0
+	},
+	"meshs": ["models/cube.obj"],
+	"materials": ["materials/default.json"],
+	"lights": [{
+			"type": "ambient",
+			"color": [1, 1, 1]
+		}, {
+			"type": "directional",
+			"color": [1, -1, 0.5],
+			"vector": [1, 0, 1]
+		},
+		{
+			"type": "point",
+			"color": [1, 1, 1],
+			"vector": [0, 1, 0.5]
+		}
+	],
+	"objects": [{
+		"mesh": 0,
+		"mtl": 0,
+		"position": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [0, 0, 0]
+	}, {
+		"mesh": 0,
+		"mtl": 0,
+		"position": [0.5, 1, 0.5],
+		"rotation": [45, 45, 0],
+		"scale": [0.5, 0.5, 0.5]
+	}]
+}

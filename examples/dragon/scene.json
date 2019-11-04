@@ -1,0 +1,453 @@
+{
+    "width": 1280,
+    "height": 720,
+    "camera": {
+        "pos": [
+            58.20600128173828,
+            24.92840003967285,
+            52.950096130371094
+        ],
+        "forward": [
+            -59.71181130409241,
+            -19.058969974517822,
+            -55.09386610984802
+        ],
+        "up": [
+            0.0,
+            1.0,
+            0.0
+        ],
+        "fov": 35.0
+    },
+    "meshes": [
+        "models/Mesh006.obj",
+        "models/Mesh013.obj",
+        "models/Mesh003.obj",
+        "models/Mesh015.obj",
+        "models/Mesh000.obj",
+        "models/Mesh011.obj",
+        "models/Mesh014.obj",
+        "models/Mesh001.obj",
+        "models/Mesh005.obj",
+        "models/Mesh007.obj",
+        "models/Mesh009.obj",
+        "models/Mesh010.obj",
+        "models/Mesh004.obj",
+        "models/Mesh012.obj",
+        "models/Mesh002.obj",
+        "models/Mesh008.obj",
+        "models/quad.obj"
+    ],
+    "materials": [
+        {
+            "type": "lambert",
+            "albedo": [
+                0.456263,
+                0.456263,
+                0.456263
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.456263,
+                0.456263,
+                0.456263
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.456263,
+                0.456263,
+                0.456263
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.79311,
+                0.79311,
+                0.79311
+            ]
+        }
+    ],
+    "objects": [
+        {
+            "mesh": 5,
+            "mtl": 1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 11,
+            "mtl": 2,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 8,
+            "mtl": 1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 0,
+            "mtl": 1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 13,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 9,
+            "mtl": 1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 15,
+            "mtl": 3,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 1,
+            "mtl": 3,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 6,
+            "mtl": 3,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 3,
+            "mtl": 3,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 12,
+            "mtl": 4,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 10,
+            "mtl": 5,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 2,
+            "mtl": 6,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 14,
+            "mtl": 7,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 7,
+            "mtl": 8,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 4,
+            "mtl": 8,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 16,
+            "mtl": 9,
+            "position": [
+                60,
+                25,
+                55
+            ],
+            "scale": [
+                1000,
+                1000,
+                1000
+            ],
+            "rotation": [
+                45,
+                45,
+                45
+            ],
+            "emissive": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "height": 256,
+    "width": 460,
+    "camera": {
+        "pos":      [-6.544, 3.366, 20.021],
+        "forward":  [0.45, 0.0, -1.0 ],
+        "up":       [0.0, 1.0, 0.0],
+        "fov": 45.0
+    },
+    "meshs": [
+        "models/railway/railway-cactus.obj",
+        "models/railway/railway-ground.obj",
+        "models/railway/railway-metal.obj",
+        "models/railway/railway-pier.obj",
+        "models/railway/railway-props.obj"
+    ],
+    "materials": [
+        "materials/railway/cactus.json",
+        "materials/railway/ground.json",
+        "materials/railway/metal.json",
+        "materials/railway/pier.json",
+        "materials/railway/props.json"
+    ],
+    "lights": [
+        {
+            "type": "ambient",
+            "color": [0.3, 0.3, 0.3]
+        },
+        {
+            "type": "directional",
+            "color": [1.0, 1.0, 1.0],
+            "vector": [0, -1, 1]
+        }
+    ],
+
+    "objects": [
+        {
+            "mesh": 0,
+            "mtl": 0,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        },
+        {
+            "mesh": 1,
+            "mtl": 1,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        },
+        {
+            "mesh": 2,
+            "mtl": 2,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        },
+        {
+            "mesh": 3,
+            "mtl": 3,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        },
+        {
+            "mesh": 4,
+            "mtl": 4,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        }
+    ]
+}

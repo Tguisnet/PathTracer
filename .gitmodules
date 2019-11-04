@@ -1,0 +1,6 @@
+[submodule "dependencies/lodepng"]
+	path = dependencies/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "dependencies/nlohmann-json"]
+	path = dependencies/nlohmann-json
+	url = https://github.com/anis-ladram/nlohmann-json-headers.git

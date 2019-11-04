@@ -1,0 +1,15 @@
+{
+    "diffuse": [ 1.0, 0.5, 0.5 ],
+    "specular": [ 0.5, 0.5, 0.0 ],
+    "spec-level" : 0.2,
+    "reflectivity" : 0.9,
+    "shininess": 0.6,
+    "opacity": 1.0,
+    "refr-index": 2.1,
+    "fog-color": [ 1.0, 0.0, 0.6 ],
+    "fog-density": 0.4,
+
+    "tex-diffuse": "toto-diff.ppm",
+    "tex-normal": "toto-norm.ppm",
+    "tex-opacity": "toto-opac.ppm"
+}

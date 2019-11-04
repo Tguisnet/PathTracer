@@ -1,0 +1,37 @@
+{
+    "height": 128,
+    "width": 256,
+    "camera": {
+        "pos":      [0.0, 0.0, -10.0],
+        "forward":  [0.0, 0.0, 1.0],
+        "up":       [0.0, 1.0, 0.0],
+        "fov": 45.0
+    },
+    "meshs": [
+        "../models/hello.obj"
+    ],
+    "materials": [
+        "../materials/default.json"
+    ],
+    "lights": [
+        {
+            "type": "ambient",
+            "color": [0.02, 0.02, 0.05]
+        },
+        {
+            "type": "directional",
+            "color": [1.0, 1.0, 1.0],
+            "vector": [0, -1, 1]
+        }
+    ],
+
+    "objects": [
+        {
+            "mesh": 0,
+            "mtl": 0,
+            "position" : [ 0, 0, 0 ],
+            "rotation" : [ 0, 0, 0 ],
+            "scale"    : [ 1, 1, 1 ]
+        }
+    ]
+}

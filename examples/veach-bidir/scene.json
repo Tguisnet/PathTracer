@@ -1,0 +1,409 @@
+{
+    "width": 1024,
+    "height": 1024,
+    "camera": {
+        "pos": [
+            16.2155,
+            4.05167,
+            0.0114864
+        ],
+        "forward": [
+            -17.059184,
+            -0.07966999999999969,
+            -0.0857182
+        ],
+        "up": [
+            0,
+            1,
+            0
+        ],
+        "fov": 35
+    },
+    "meshes": [
+        "models/mesh005.obj",
+        "models/mesh008.obj",
+        "models/mesh002.obj",
+        "models/mesh003.obj",
+        "models/mesh007.obj",
+        "models/mesh009.obj",
+        "models/mesh006.obj",
+        "models/mesh004.obj",
+        "models/mesh011.obj",
+        "models/mesh001.obj",
+        "models/mesh010.obj",
+        "models/mesh000.obj",
+	"models/quad.obj"
+    ],
+    "materials": [
+        {
+            "type": "lambert",
+            "albedo": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "type": "glass",
+            "albedo": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "type": "metal",
+            "albedo": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "type": "lambert",
+            "albedo": [
+                0.32963,
+                0.257976,
+                0.150292
+            ]
+        }
+    ],
+    "objects": [
+        {
+            "mesh": 4,
+            "mtl": 2,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 7,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 12,
+            "mtl": 0,
+            "position": [
+                -2.48161,
+                6,
+                2.5894
+            ],
+            "scale": [
+                0.551508,
+                0.304162,
+                0.551509
+            ],
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "emissive": [
+                500,
+                500,
+                500
+            ]
+        },
+        {
+            "mesh": 12,
+            "mtl": 0,
+            "position": [
+                -2.69082,
+                5.10417,
+                -3.77057
+            ],
+            "scale": [
+                0.135992,
+                0.0392682,
+                0.135992
+            ],
+            "rotation": [
+                -5.99321,
+                82.6454,
+                -115.569
+            ],
+            "emissive": [
+                700,
+                500,
+                360
+            ]
+        },
+        {
+            "mesh": 9,
+            "mtl": 2,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 0,
+            "mtl": 2,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 1,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 2,
+            "mtl": 1,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 8,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 3,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 5,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 6,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 11,
+            "mtl": 3,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh": 10,
+            "mtl": 0,
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "emissive": [
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
